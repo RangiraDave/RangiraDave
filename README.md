@@ -1,5 +1,5 @@
 ## Hi there 👋
-[]!(https://github.com/kshyun28)
+[](https://github.com/kshyun28)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
