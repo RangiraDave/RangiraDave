@@ -1,4 +1,5 @@
-![Profile Image](https://files.oaiusercontent.com/file-xQIKZ0PCBuqSJCtWp1RGUe4o?se=2024-09-04T09%3A05%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1a3d232f-5b51-42e3-8a2e-99b4248ca3ee.webp&sig=SyuJV4076EfwapRtFAjkyNLcaq9E/XNi86o8K%2BGBaGo%3D)  
+![Profile Image](![image](https://github.com/user-attachments/assets/b3ad6a02-aaa8-4430-bc72-ea60426c703a)
+)
 
 ## 👋 Hi there, I'm David Rangira
 
