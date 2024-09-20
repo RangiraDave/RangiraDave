@@ -1,5 +1,4 @@
-![Profile Image](![image](https://github.com/user-attachments/assets/b3ad6a02-aaa8-4430-bc72-ea60426c703a)
-)
+![Profile Image](https://github.com/user-attachments/assets/b3ad6a02-aaa8-4430-bc72-ea60426c703a)
 
 ## 👋 Hi there, I'm David Rangira
 
