@@ -46,11 +46,6 @@ I am a passionate and driven software engineer, currently completing my Bachelor
 - **Recent Achievements:** Completing projects like `Simple Shell` and `QuizTime`.
 - **Certifications:** Certificate from ALX Software Engineering Program.
 
-### 📫 How to reach me
-
-- **Email:** [rangiradave6@gmail.com](mailto:rangiradave6@.com)
-- **LinkedIn:** [David Rangira](https://www.linkedin.com/in/david-rangira-140a71258)
-
 
 <!--
 **RangiraDave/RangiraDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
